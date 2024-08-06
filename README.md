@@ -1,23 +1,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhunu&label=Profile%20views&color=0e75b6&style=flat" alt="dhunu" />
 
-<h1 align="center">Hi 👋, I'm Angel Saikia</h1>
+<h1 align="center">Hi 👋, I'm Rani Panchore</h1>
 <h3 align="center">A motivated Full Stack Developer from India.</h3>
 
 - 🧑🏻‍💻 Building [**Safbro**](https://safbro.com/), a learning platform.
 
-- 🔭 I’m currently working on **NextJS !**
+- 🔭 I’m currently working on **ReactJS !**
 
-- 💻 All of my projects are available at [**Portfolio**](https://www.angelsaikia.com/)
+- 💻 All of my projects are available at [**Portfolio**](https://www.ranipanchore.com/)
 
-- 💬 Ask me about **React, Next.js, Tailwind, Java, SQL, Hibernate, Spring Framework**
+- 💬 Ask me about **React, Angular, Tailwind, Material, SQL, Mongodb, Node , Express**
 
-- 📫 How to reach me **developer@angelsaikia.com**
+- 📫 How to reach me **developer@ranipanchore.com**
 
-- 📄 Know about my experiences [**Resume**](http://bit.ly/3I3Nuw1)
+- 📄 Know about my experiences [**Resume**](https://github.com/ranipanchor)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/angel-saikia/" target="_blank">
+  <a href="https://www.linkedin.com/in/rani-panchore/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://discord.gg/4Y7tszW" target="_blank">
