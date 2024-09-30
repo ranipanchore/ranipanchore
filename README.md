@@ -1,88 +1,55 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhunu&label=Profile%20views&color=0e75b6&style=flat" alt="dhunu" />
 
-<h1 align="center">Hi 👋, I'm Rani Panchore</h1>
-<h3 align="center">A motivated Full Stack Developer from India.</h3>
 
-- 🧑🏻‍💻 Building [**Safbro**](https://safbro.com/), a learning platform.
+<h1 align="center">Hi 👋, I'm Rani Sharma</h1>
+<h3 align="center">A Motivated Full Stack Developer from India.</h3>
+
+- 🧑🏻‍💻 Building [**w3school**](https://www.w3schools.com/), a learning platform.
 
 - 🔭 I’m currently working on **ReactJS !**
 
-- 💻 All of my projects are available at [**Portfolio**](https://www.ranipanchore.com/)
+- 💻 All of my projects are available at [**Portfolio**](https://ranipanchore.github.io/)
 
-- 💬 Ask me about **React, Angular, Tailwind, Material, SQL, Mongodb, Node , Express**
+- 💬 Ask me about **React, Angular, Tailwind, Angular Material, PostgressSql, Mongodb, Node , Express, React component library[MatrialUI,Ent Design,React bootstrap. chakra UI]**
 
-- 📫 How to reach me **developer@ranipanchore.com**
+- 📫 How to reach me **panchorerani1@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://github.com/ranipanchor)
+- 📄 Know about my experiences [**Resume**](https://ranipanchore.github.io/)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rani-panchore/" target="_blank">
+  <a href="https://in.linkedin.com/in/ranipanchore" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://discord.gg/4Y7tszW" target="_blank">
+<!--   <a href="https://discord.gg/4Y7tszW" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://www.instagram.com/saikiaangel_/" target="_blank">
+  </a> -->
+<!--   <a href="https://www.instagram.com/saikiaangel_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://twitter.com/AngelSaikia1" target="_blank">
+  </a> -->
+<!--   <a href="https://twitter.com/AngelSaikia1" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  </a> -->
 </p>
 
 <h2 align="center">Languages: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,py" />
+    <img src="https://skillicons.dev/icons?i=js,ts,bash,css,json" />
   </a>
 </p>
 
 <h2 align="center">My Tech Stacks: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,firebase,appwrite,hibernate,maven,mysql" />
+    <img src="https://skillicons.dev/icons?i=angular,react,tailwind,mysql,mongodb" />
   </a>
 </p>
 
 <h2 align="center">Tools and Software: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,prisma,nodejs,netlify,vercel,postman,spring" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,prisma,nodejs,netlify,vercel,postman" />
   </a>
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dhunu&theme=highcontrast&disable_animations=false&card_width=846&card_height=300)](https://git.io/streak-stats)
-
-<h2 align="center">Wakatime Stats:</h2>
-
-
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C707%20hrs%2012%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               24 hrs 28 mins      ██████████████████████░░░   86.45 % 
-Other                    3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-
-🔥 Editors: 
-VS Code                  24 hrs 48 mins      ██████████████████████░░░   87.64 % 
-Google Calendar          3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-```
-
-
-<!--END_SECTION:waka-->
